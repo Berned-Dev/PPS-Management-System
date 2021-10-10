@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.31702.278
+VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPS Main Software", "PPS Main Software\PPS Main Software.csproj", "{4FB3F26F-3623-46D7-A284-F1921DB1582B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPS Main Software", "PPS Main Software\PPS Main Software.csproj", "{0E77F01E-A588-422E-BF4C-83BAD74E6631}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4FB3F26F-3623-46D7-A284-F1921DB1582B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4FB3F26F-3623-46D7-A284-F1921DB1582B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4FB3F26F-3623-46D7-A284-F1921DB1582B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4FB3F26F-3623-46D7-A284-F1921DB1582B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E77F01E-A588-422E-BF4C-83BAD74E6631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E77F01E-A588-422E-BF4C-83BAD74E6631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E77F01E-A588-422E-BF4C-83BAD74E6631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E77F01E-A588-422E-BF4C-83BAD74E6631}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {855827C4-5A84-40E4-98CB-2B9D03D0FC05}
+		SolutionGuid = {A6DFBEA3-0654-4FFC-8297-7B67DAC7370D}
 	EndGlobalSection
 EndGlobal
