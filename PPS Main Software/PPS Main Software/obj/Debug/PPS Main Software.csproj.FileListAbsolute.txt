@@ -24,3 +24,36 @@ F:\New folder\PPS Main Software\PPS Main Software\obj\Debug\PPS Main Software.ex
 F:\New folder\PPS Main Software\PPS Main Software\obj\Debug\PPS Main Software.pdb
 F:\New folder\PPS Main Software\PPS Main Software\obj\Debug\PPS_Main_Software.ClientsManagement.resources
 F:\New folder\PPS Main Software\PPS Main Software\obj\Debug\PPS_Main_Software.ProjectsManagement.resources
+C:\Users\BEN\Desktop\PPS Main Software\PPS Main Software\bin\Debug\PPS_Database.mdf
+C:\Users\BEN\Desktop\PPS Main Software\PPS Main Software\bin\Debug\PPS_Database_log.ldf
+C:\Users\BEN\Desktop\PPS Main Software\PPS Main Software\bin\Debug\PPS Main Software.exe.config
+C:\Users\BEN\Desktop\PPS Main Software\PPS Main Software\bin\Debug\PPS Main Software.exe
+C:\Users\BEN\Desktop\PPS Main Software\PPS Main Software\bin\Debug\PPS Main Software.pdb
+C:\Users\BEN\Desktop\PPS Main Software\PPS Main Software\obj\Debug\PPS Main Software.csproj.AssemblyReference.cache
+C:\Users\BEN\Desktop\PPS Main Software\PPS Main Software\obj\Debug\PPS_Main_Software.ClientsManagement.resources
+C:\Users\BEN\Desktop\PPS Main Software\PPS Main Software\obj\Debug\PPS_Main_Software.EmployeesManagementForm.resources
+C:\Users\BEN\Desktop\PPS Main Software\PPS Main Software\obj\Debug\PPS_Main_Software.LoginForm.resources
+C:\Users\BEN\Desktop\PPS Main Software\PPS Main Software\obj\Debug\PPS_Main_Software.ManagementForm.resources
+C:\Users\BEN\Desktop\PPS Main Software\PPS Main Software\obj\Debug\PPS_Main_Software.ProjectsManagement.resources
+C:\Users\BEN\Desktop\PPS Main Software\PPS Main Software\obj\Debug\PPS_Main_Software.Properties.Resources.resources
+C:\Users\BEN\Desktop\PPS Main Software\PPS Main Software\obj\Debug\PPS Main Software.csproj.GenerateResource.cache
+C:\Users\BEN\Desktop\PPS Main Software\PPS Main Software\obj\Debug\PPS Main Software.csproj.CoreCompileInputs.cache
+C:\Users\BEN\Desktop\PPS Main Software\PPS Main Software\obj\Debug\PPS Main Software.exe
+C:\Users\BEN\Desktop\PPS Main Software\PPS Main Software\obj\Debug\PPS Main Software.pdb
+F:\final\PPS Main Software\PPS Main Software\bin\Debug\PPS_Database.mdf
+F:\final\PPS Main Software\PPS Main Software\bin\Debug\PPS_Database_log.ldf
+F:\final\PPS Main Software\PPS Main Software\bin\Debug\PPS Main Software.exe.config
+F:\final\PPS Main Software\PPS Main Software\bin\Debug\PPS Main Software.exe
+F:\final\PPS Main Software\PPS Main Software\bin\Debug\PPS Main Software.pdb
+F:\final\PPS Main Software\PPS Main Software\obj\Debug\PPS Main Software.csproj.AssemblyReference.cache
+F:\final\PPS Main Software\PPS Main Software\obj\Debug\PPS_Main_Software.ClientsManagement.resources
+F:\final\PPS Main Software\PPS Main Software\obj\Debug\PPS_Main_Software.EmployeesManagementForm.resources
+F:\final\PPS Main Software\PPS Main Software\obj\Debug\PPS_Main_Software.LoginForm.resources
+F:\final\PPS Main Software\PPS Main Software\obj\Debug\PPS_Main_Software.ManagementForm.resources
+F:\final\PPS Main Software\PPS Main Software\obj\Debug\PPS_Main_Software.ProjectsManagement.resources
+F:\final\PPS Main Software\PPS Main Software\obj\Debug\PPS_Main_Software.Properties.Resources.resources
+F:\final\PPS Main Software\PPS Main Software\obj\Debug\PPS_Main_Software.ReportsForm.resources
+F:\final\PPS Main Software\PPS Main Software\obj\Debug\PPS Main Software.csproj.GenerateResource.cache
+F:\final\PPS Main Software\PPS Main Software\obj\Debug\PPS Main Software.csproj.CoreCompileInputs.cache
+F:\final\PPS Main Software\PPS Main Software\obj\Debug\PPS Main Software.exe
+F:\final\PPS Main Software\PPS Main Software\obj\Debug\PPS Main Software.pdb

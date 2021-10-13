@@ -42,5 +42,12 @@ namespace PPS_Main_Software
         {
             this.Close();
         }
+
+        private void btnReports_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            ReportsForm reports = new ReportsForm();
+            reports.Show();
+        }
     }
 }

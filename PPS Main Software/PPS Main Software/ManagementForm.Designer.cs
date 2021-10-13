@@ -37,13 +37,14 @@ namespace PPS_Main_Software
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.btnReports = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // btnEmployeesManage
             // 
             this.btnEmployeesManage.Location = new System.Drawing.Point(89, 164);
-            this.btnEmployeesManage.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnEmployeesManage.Margin = new System.Windows.Forms.Padding(4);
             this.btnEmployeesManage.Name = "btnEmployeesManage";
             this.btnEmployeesManage.Size = new System.Drawing.Size(193, 62);
             this.btnEmployeesManage.TabIndex = 1;
@@ -53,8 +54,8 @@ namespace PPS_Main_Software
             // 
             // btnClientsManage
             // 
-            this.btnClientsManage.Location = new System.Drawing.Point(89, 372);
-            this.btnClientsManage.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnClientsManage.Location = new System.Drawing.Point(89, 254);
+            this.btnClientsManage.Margin = new System.Windows.Forms.Padding(4);
             this.btnClientsManage.Name = "btnClientsManage";
             this.btnClientsManage.Size = new System.Drawing.Size(193, 62);
             this.btnClientsManage.TabIndex = 2;
@@ -64,8 +65,8 @@ namespace PPS_Main_Software
             // 
             // btnProjectsManage
             // 
-            this.btnProjectsManage.Location = new System.Drawing.Point(89, 258);
-            this.btnProjectsManage.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnProjectsManage.Location = new System.Drawing.Point(89, 348);
+            this.btnProjectsManage.Margin = new System.Windows.Forms.Padding(4);
             this.btnProjectsManage.Name = "btnProjectsManage";
             this.btnProjectsManage.Size = new System.Drawing.Size(193, 62);
             this.btnProjectsManage.TabIndex = 4;
@@ -75,8 +76,8 @@ namespace PPS_Main_Software
             // 
             // btnExit
             // 
-            this.btnExit.Location = new System.Drawing.Point(89, 479);
-            this.btnExit.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnExit.Location = new System.Drawing.Point(89, 533);
+            this.btnExit.Margin = new System.Windows.Forms.Padding(4);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(193, 37);
             this.btnExit.TabIndex = 5;
@@ -109,17 +110,29 @@ namespace PPS_Main_Software
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(303, 528);
+            this.label1.Location = new System.Drawing.Point(270, 627);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(66, 17);
             this.label1.TabIndex = 12;
             this.label1.Text = "PPS v1.0";
             // 
+            // btnReports
+            // 
+            this.btnReports.Location = new System.Drawing.Point(89, 439);
+            this.btnReports.Margin = new System.Windows.Forms.Padding(4);
+            this.btnReports.Name = "btnReports";
+            this.btnReports.Size = new System.Drawing.Size(193, 62);
+            this.btnReports.TabIndex = 13;
+            this.btnReports.Text = "Reports";
+            this.btnReports.UseVisualStyleBackColor = true;
+            this.btnReports.Click += new System.EventHandler(this.btnReports_Click);
+            // 
             // ManagementForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(381, 554);
+            this.ClientSize = new System.Drawing.Size(381, 653);
+            this.Controls.Add(this.btnReports);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.pictureBox1);
@@ -127,7 +140,7 @@ namespace PPS_Main_Software
             this.Controls.Add(this.btnProjectsManage);
             this.Controls.Add(this.btnClientsManage);
             this.Controls.Add(this.btnEmployeesManage);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "ManagementForm";
             this.Text = "ManagementForm";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
@@ -144,5 +157,6 @@ namespace PPS_Main_Software
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btnReports;
     }
 }
